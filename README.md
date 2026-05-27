@@ -1,6 +1,6 @@
 # n8n-nodes-resourceplanner
 
-This is an n8n community node for Resource Planner. It lets you automate Resource Planner projects, resources, and assignments from n8n workflows.
+This is an n8n community node for [Resource Planner](https://www.resourceplanner.io/). It lets you automate Resource Planner projects, resources, and assignments from n8n workflows.
 
 Resource Planner is a workspace planning tool for managing project demand, team capacity, and scheduled assignments.
 
