@@ -1,0 +1,18 @@
+{
+    "node": "n8n-nodes-resourceplanner",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["Productivity", "Project Management"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://github.com/ikisaka/n8n-nodes-resourceplanner#credentials"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://github.com/ikisaka/n8n-nodes-resourceplanner"
+            }
+        ]
+    }
+}
