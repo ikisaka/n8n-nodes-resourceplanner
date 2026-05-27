@@ -25,12 +25,16 @@
         "dev": "n8n-node dev",
         "lint": "n8n-node lint",
         "lint:fix": "n8n-node lint --fix",
+        "test": "npm run lint && npm run build && npx --yes @n8n/scan-community-package n8n-nodes-resourceplanner",
         "release": "n8n-node release",
         "prepublishOnly": "n8n-node prerelease"
     },
     "files": [
         "dist"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "n8n": {
         "n8nNodesApiVersion": 1,
         "strict": true,
